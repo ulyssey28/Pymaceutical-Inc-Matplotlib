@@ -13,7 +13,7 @@ Using Python and Matplotlib created several graphs to examine different trends:
 
 * Created a scatter plot that shows how the tumor volume changes over time for each treatment.
 
-![tumorchange](Pymaceuticals/Images and Markdown Notebook/output_10_1.png)
+![](Pymaceuticals/Images and Markdown Notebook/output_10_1.png)
 
 * Created a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
 
