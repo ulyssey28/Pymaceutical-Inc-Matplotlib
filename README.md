@@ -1,10 +1,15 @@
 ## Pymaceuticals Inc
 
+# Background 
 In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time. 
 
-I analyzed the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
 
-To do this I:
+
+## Process:
+
+I analyzed the data to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare when treating cancer in mice.
+
+Using Python and Matplotlib created several graphs to examine different trends:
 
 * Created a scatter plot that shows how the tumor volume changes over time for each treatment.
 * Created a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
