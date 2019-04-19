@@ -17,6 +17,13 @@ Using Python and Matplotlib created several graphs to examine different trends:
 
 * Created a scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
 
+![metastaticvolumechange](Pymaceuticals/Images%20and%20Markdown%20Notebook/output_20_1.png)
 
 * Created a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+
+![survivalrate](Pymaceuticals/Images%20and%20Markdown%20Notebook/output_26_1.png)
+
 * Created a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+
+![](Pymaceuticals/Images%20and%20Markdown%20Notebook/output_30_0.png)
+
